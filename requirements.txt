@@ -1,0 +1,7 @@
+pygame>=2.5.0
+python-chess>=1.999
+bcrypt>=4.0.0
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+# Optional: nicer PDF reports (falls back to .txt if not installed)
+reportlab>=4.0.0

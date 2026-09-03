@@ -1,0 +1,13 @@
+[Event "ChessMaster Game"]
+[Site "ChessMaster"]
+[Date "2026.08.09"]
+[Round "-"]
+[White "Stockfish"]
+[Black "puzan"]
+[Result "1-0"]
+[Opening "Réti Opening"]
+
+1. Nf3 e6 2. Ne5 d6 3. Nc4 f5 4. Nc3 Qg5 5. d4 d5 6. Bxg5 dxc4 7. e3 Ne7 8.
+Qh5+ g6 9. Qf3 Nbc6 10. Bxc4 Bd7 11. Bf6 O-O-O 12. Bxh8 Bg7 13. Bxg7 Ng8 14.
+Bb5 Nb4 15. Bxd7+ 1-0
+
